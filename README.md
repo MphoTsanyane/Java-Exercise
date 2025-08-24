@@ -15,5 +15,14 @@ Basic Java exercises for practice.
 4. **Calculator.java** – Basic calculator using switch-case
 5. **VowelConsonant.java** – Checks if a character is a vowel or consonant
 
+   ## Part 3: Loops
+
+1. **Factorial.java** – Finds the factorial of a given number using a loop  
+2. **Fibonacci.java** – Generates the Fibonacci series up to n terms  
+3. **ReverseNumber.java** – Reverses a given number using a loop  
+4. **SumOfDigits.java** – Finds the sum of digits of a number  
+5. **PrimeNumbers.java** – Prints all prime numbers between 1 and 100
+
+
 
 
