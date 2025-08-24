@@ -23,6 +23,15 @@ Basic Java exercises for practice.
 4. **SumOfDigits.java** – Finds the sum of digits of a number  
 5. **PrimeNumbers.java** – Prints all prime numbers between 1 and 100
 
+   ## Part 4: Arrays
+
+1. **LargestElement.java** – Finds the largest element in an array  
+2. **SortArray.java** – Sorts an array in ascending order  
+3. **LinearSearch.java** – Searches for an element in an array (linear search)  
+4. **ReverseArray.java** – Reverses an array  
+5. **SecondLargest.java** – Finds the second largest number in an array
+
+
 
 
 
