@@ -51,12 +51,22 @@ Basic Java exercises for practice.
 
      ## Part 7: Object-Oriented Programming (OOP)
 
-1. **OOPExercises.java** – Demonstrates key OOP concepts:
+ **OOPExercises.java** – Demonstrates key OOP concepts:
    - Class with attributes and methods (Car)
    - Class with deposit and withdraw methods (BankAccount)
    - Constructor overloading (Student)
    - Method overriding with inheritance (Animal & Dog)
-   - Class hierarchy: Shape → Circle, Rectangle
+   - Class hierarchy: Shape  Circle, Rectangle
+  
+     ## Part 8: Inheritance & Polymorphism
+
+ **InheritancePolymorphism.java** – Demonstrates:
+   - Single inheritance
+   - Hierarchical inheritance
+   - Abstract class and abstract methods
+   - Multiple inheritance using interfaces
+   - Dynamic method dispatch
+
 
 
 
