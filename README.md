@@ -40,6 +40,16 @@ Basic Java exercises for practice.
    - Checks if two strings are anagrams
    - Finds the longest word in a sentence
 
+     ## Part 6: Methods
+
+ **MethodExercises.java** – Demonstrates multiple methods:
+   - Checks if a number is prime
+   - Returns the factorial of a number
+   - Calculates the GCD of two numbers
+   - Reverses a string
+   - Checks if a number is a palindrome
+
+
 
 
 
