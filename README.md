@@ -31,6 +31,14 @@ Basic Java exercises for practice.
 4. **ReverseArray.java** – Reverses an array  
 5. **SecondLargest.java** – Finds the second largest number in an array
 
+    ## Part 5: Strings
+
+ **StringExercises.java** – Performs multiple string operations:
+   - Checks if a string is a palindrome
+   - Counts the number of vowels in a string
+   - Finds the frequency of characters in a string
+   - Checks if two strings are anagrams
+   - Finds the longest word in a sentence
 
 
 
